@@ -1,0 +1,68 @@
+[
+  {
+    "Database": "accounting",
+    "Tables": [
+      {
+        "Table": "transactions",
+        "Insert": 48,
+        "Update": 13,
+        "Delete": 0,
+        "Total": 61
+      },
+      {
+        "Table": "bank_revaluations",
+        "Insert": 2,
+        "Update": 0,
+        "Delete": 2,
+        "Total": 4
+      },
+      {
+        "Table": "payments",
+        "Insert": 0,
+        "Update": 3,
+        "Delete": 0,
+        "Total": 3
+      },
+      {
+        "Table": "artefacts",
+        "Insert": 0,
+        "Update": 1,
+        "Delete": 0,
+        "Total": 1
+      },
+      {
+        "Table": "bank_accounts",
+        "Insert": 4,
+        "Update": 0,
+        "Delete": 0,
+        "Total": 4
+      },
+      {
+        "Table": "contacts",
+        "Insert": 0,
+        "Update": 1,
+        "Delete": 0,
+        "Total": 1
+      }
+    ]
+  },
+  {
+    "Database": "active-database",
+    "Tables": [
+      {
+        "Table": "AccountingEntry",
+        "Insert": 38,
+        "Update": 78,
+        "Delete": 0,
+        "Total": 116
+      },
+      {
+        "Table": "AccountingAccount",
+        "Insert": 0,
+        "Update": 1,
+        "Delete": 0,
+        "Total": 1
+      }
+    ]
+  }
+]

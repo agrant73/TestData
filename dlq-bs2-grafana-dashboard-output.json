@@ -1,0 +1,68 @@
+[
+  {
+    "Database": "accounting",
+    "Tables": [
+      {
+        "Table": "transactions",
+        "Insert": 863,
+        "Update": 0,
+        "Delete": 0,
+        "Total": 863
+      },
+      {
+        "Table": "ledger_accounts",
+        "Insert": 96,
+        "Update": 0,
+        "Delete": 0,
+        "Total": 96
+      },
+      {
+        "Table": "financial_years",
+        "Insert": 5,
+        "Update": 0,
+        "Delete": 0,
+        "Total": 5
+      },
+      {
+        "Table": "bank_accounts",
+        "Insert": 14,
+        "Update": 0,
+        "Delete": 0,
+        "Total": 14
+      },
+      {
+        "Table": "analysis_type_categories",
+        "Insert": 23,
+        "Update": 0,
+        "Delete": 0,
+        "Total": 23
+      },
+      {
+        "Table": "contacts",
+        "Insert": 2,
+        "Update": 0,
+        "Delete": 0,
+        "Total": 2
+      },
+      {
+        "Table": "corrections",
+        "Insert": 13,
+        "Update": 0,
+        "Delete": 0,
+        "Total": 13
+      }
+    ]
+  },
+  {
+    "Database": "active-database",
+    "Tables": [
+      {
+        "Table": "AccountingEntry",
+        "Insert": 10,
+        "Update": 0,
+        "Delete": 0,
+        "Total": 10
+      }
+    ]
+  }
+]
